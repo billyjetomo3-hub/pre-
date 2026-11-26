@@ -1,0 +1,6 @@
+C:\Users\billy\OneDrive\Desktop\done proposal\systema\SchoolIdReplacement\SchoolIdReplacement\bin\Debug\SchoolIdReplacement.exe
+C:\Users\billy\OneDrive\Desktop\done proposal\systema\SchoolIdReplacement\SchoolIdReplacement\bin\Debug\SchoolIdReplacement.exe.config
+C:\Users\billy\OneDrive\Desktop\done proposal\systema\SchoolIdReplacement\SchoolIdReplacement\obj\Debug\SchoolIdReplacement.exe
+C:\Users\billy\OneDrive\Desktop\done proposal\systema\SchoolIdReplacement\SchoolIdReplacement\obj\Debug\SchoolIdReplacement.pdb
+C:\Users\billy\OneDrive\Desktop\done proposal\systema\SchoolIdReplacement\SchoolIdReplacement\bin\Debug\SchoolIdReplacement.pdb
+C:\Users\billy\OneDrive\Desktop\done proposal\systema\SchoolIdReplacement\SchoolIdReplacement\obj\Debug\SchoolIdReplacement.csprojResolveAssemblyReference.cache
